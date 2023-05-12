@@ -23,6 +23,11 @@ To use this application, follow these steps:
    - `JWT_SECRET`: A secret string used to sign JWT tokens.
 4. Start the development server by running `npm run dev` in the server directory.
 
+## Link
+
+Frontend-https://chatsup.vercel.app
+Backend-https://chat-up-api.onrender.com
+
 ## Contributing
 
 If you want to contribute to this project, please follow these steps:
